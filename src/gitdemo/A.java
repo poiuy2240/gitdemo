@@ -6,6 +6,6 @@ public class A {
 		System.out.println();
 	}
 	public void b(){
-		System.out.println(1231);
+		System.out.println();
 	}
 }
