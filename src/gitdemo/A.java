@@ -7,6 +7,9 @@ public class A {
 	}
 	public void b(){
 		System.out.println(1231);
+		
+		
+		
 	}
 }
 
