@@ -12,7 +12,6 @@ public class A {
 		System.out.println(22);
 		
 		System.out.println();
-		
 
 	}
 }
