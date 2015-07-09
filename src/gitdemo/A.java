@@ -10,6 +10,7 @@ public class A {
 		System.out.println(2);
 		System.out.println("4444");
 		System.out.println(22);
+		System.out.println(22);
 	}
 }
 
