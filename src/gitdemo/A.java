@@ -7,8 +7,6 @@ public class A {
 	}
 	public void b(){
 		System.out.println(1231);
-		System.out.println();
-		System.out.println("4444");
 		System.out.println(22);
 	}
 }
