@@ -9,7 +9,7 @@ public class A {
 		System.out.println(1231);
 		System.out.println("4444");
 		System.out.println("4444");
-		
+		System.out.println();
 	}
 }
 
